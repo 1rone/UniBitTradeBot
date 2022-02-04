@@ -1,0 +1,7 @@
+TG_BOT_TOKEN = '###'
+CL_ID = '###'
+CL_SECRET = '###'
+HOST = '###'
+USER = '###'
+PASSWORD = '###'
+DB = '###'
